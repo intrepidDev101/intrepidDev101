@@ -5,11 +5,8 @@
 # 🌟 Hello There! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=58A6FF&center=true&width=500&lines=Welcome+to+intrepidDev101's+Profile!;Learning+and+Growing+with+C,+Flutter+and+Bash!;Exploring+Generative+AI+and+Coding+Tools!;Let's+Code+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=58A6FF&center=true&width=800&lines=Welcome+to+intrepidDev101's+Profile!;Learning+and+Growing+with+C,+Flutter+and+Bash!;Exploring+Generative+AI+and+Coding+Tools!;Let's+Code+Something+Awesome!" alt="Typing SVG" />
 </div>
-
-> 🌞 **Good Morning!** (Changes dynamically based on time of day)  
-> 🌙 **Good Evening!** (Dynamic content magic for your visitors!)  
 
 ---
 
@@ -74,33 +71,6 @@ A beginner developer, exploring the realms of **C**, **Flutter**, and **Bash** w
 </div>
 
 ---
-
-### 🎲 Let’s Roll Some Dice  
-[![Roll Dice](https://img.shields.io/badge/🎲-Roll%20the%20Dice-orange?style=for-the-badge)](https://roll-a-dice.herokuapp.com/)
-
----
-
-### 🖼️ Random GIF  
-![Random GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
-### ✨ Easter Egg Game  
-[![Play Terminal Game](https://img.shields.io/badge/🎮-Play%20My%20Terminal%20Game-blueviolet?style=for-the-badge)](https://example-terminal-game-link.com)  
-
-
-## 🎯 **Goals and Progress**
-
-### 🚀 Current Goals  
-- **Learn C**:  
-  ![Progress](https://progress-bar.dev/40/?title=Learning%20C)  
-
-- **Build Flutter Apps**:  
-  ![Progress](https://progress-bar.dev/25/?title=Flutter%20Mastery)  
-
-- **Master Bash Scripting**:  
-  ![Progress](https://progress-bar.dev/60/?title=Bash%20Scripting)  
-
 
 ## 🌐 **Let’s Connect!**
 
