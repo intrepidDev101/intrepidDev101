@@ -4,74 +4,41 @@
   🌌 Hello There! 👋
 </h1>
 
-
-<style>
-  @keyframes flicker {
-    0% { opacity: 1; }
-    50% { opacity: 0.8; }
-    100% { opacity: 1; }
-  }
-</style>
-
-
-<style>
-  .glitch {
-    color: #fff;
-    font-size: 3.5rem;
-    font-weight: bold;
-    position: relative;
-  }
-  
-  .glitch::before,
-  .glitch::after {
-    content: attr(data-text);
-    position: absolute;
-    left: 0;
-    color: #FF6D28;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-  
-  .glitch::before {
-    animation: glitch-animation 2s infinite;
-    top: -2px;
-    left: 2px;
-  }
-  
-  .glitch::after {
-    animation: glitch-animation 2s infinite;
-    top: 2px;
-    left: -2px;
-  }
-  
-  @keyframes glitch-animation {
-    0% { transform: translate(0); }
-    20% { transform: translate(-2px, 2px); }
-    40% { transform: translate(-2px, -2px); }
-    60% { transform: translate(2px, 2px); }
-    80% { transform: translate(2px, -2px); }
-    100% { transform: translate(0); }
-  }
-</style>
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=FF6D28&background=00000000&center=true&vCenter=true&width=1000&height=70&lines=🌌+Welcome+to+The+Orbital+Hub!;🚀+intrepidDev101+is+On+a+Mission+to+Master+C,+Rust,+and+Flutter;🧠+Exploring+AI's+Creative+Frontier+%26+Inventing+New+Possibilities;💻+Building+One+Line+of+Code+at+a+Time...;✨+Together,+Let's+Code+the+Next+Big+Thing!+" alt="Typing SVG" />
 </div>
 
+```C
+## 🧑‍💻 **About Me** 
+```c
+// File: about_me.c
+#include <developer.h>
+#include <passion.h>
+#include <creativity.h>
 
+int main() {
+    char *bio = "A curious developer navigating the vast realms of 🌀 C, ⚙️ Rust, and 📱 Flutter, 
+    fueled by the enchanting powers of 🤖 Generative AI.";
+    
+    // Current Quests 🎯
+    learn("C");
+    explore("Rust");
+    master("Flutter");
+    harness("Generative AI Magic");
+    
+    // Daily Activities ⚡
+    build(small_scripts_and_tools);
+    debug(real_world_problems);
+    refactor(creative_ideas);
+    
+    // Fun Facts 🛸
+    enjoy("✈️ Traveling");
+    capture("📸 Photography");
+    read("📚 Mind-expanding Books");
 
----
-
-## **About Me**
-A beginner developer, exploring the realms of **C**, **Flutter**, and **Bash** with the magic of **Generative AI**. I'm passionate about building tools that solve real-world problems. Here's a glimpse of me:
-
-- 🌱 Currently Learning: **C**, **Flutter**, and **Bash**.  
-- 🔭 I enjoy creating small scripts and tools.  
-- ✈️ Fun fact: I’m a fan of traveling, photography, and reading books!  
-
----
+    return chase(dreams);
+}
+```
 
 ## 🌟 **My Journey in Numbers**
 
