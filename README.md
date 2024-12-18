@@ -3,8 +3,9 @@
 # 🌟 Hello There! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=58A6FF&center=true&width=800&lines=Welcome+to+intrepidDev101's+Profile!;Learning+and+Growing+with+C,+Rust+and+FlutterExploring+Generative+AI+and+Coding+Tools!;Let's+Code+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=800&color=F75C7E&background=00000000&center=true&vCenter=true&width=900&height=50&lines=👋+Welcome+to+intrepidDev101's+Profile!;🚀+Learning+and+Growing+with+C,+Rust,+and+Flutter;🤖+Exploring+Generative+AI+and+Coding+Tools!;💻+Let's+Code+Something+Awesome+Together!" alt="Typing SVG" />
 </div>
+
 
 ---
 
