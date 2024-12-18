@@ -3,8 +3,9 @@
 # 🌟 Hello There! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1200&pause=700&color=F72585&center=true&vCenter=true&width=1050&height=80&lines=🌌+Welcome+to+The+Cosmic+Zone!;🚀+intrepidDev101+is+On+a+Mission+to+Master+C,+Rust,+and+Flutter;🔍+Discovering+the+Magic+of+Generative+AI+%26+Creative+Coding;💡+Fueling+Ideas+One+Line+of+Code+at+a+Time!;⚡+Let's+Collaborate+%26+Build+Something+Legendary!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=FF6D28&background=00000000&center=true&vCenter=true&width=1000&height=70&lines=🌌+Welcome+to+The+Orbital+Hub!;🚀+intrepidDev101+is+On+a+Mission+to+Master+C,+Rust,+and+Flutter;🧠+Exploring+AI's+Creative+Frontier+%26+Inventing+New+Possibilities;💻+Building+One+Line+of+Code+at+a+Time...;✨+Together,+Let's+Code+the+Next+Big+Thing!+" alt="Typing SVG" />
 </div>
+
 
 
 ---
