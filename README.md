@@ -71,7 +71,7 @@ int main() {
   <img src="https://iconscout.com/icon/c-57" title="C - The Foundation" style="width: 60px; margin: 10px;" />
   
   <!-- Rust - The Future of Systems Icon -->
-  <img src="https://iconscout.com/icon/rust-3627930" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
+  <img src="https://iconduck.com/icons/101718/rust" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
   
   <!-- Flutter - Beautiful UIs Everywhere Icon -->
   <img src="https://iconscout.com/icon/flutter-2752187" title="Flutter - Beautiful UIs Everywhere" style="width: 60px; margin: 10px;" />
