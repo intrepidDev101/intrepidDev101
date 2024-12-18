@@ -70,10 +70,8 @@ int main() {
   <!-- C - The Foundation Icon -->
   <img src="https://iconscout.com/icon/c-57" title="C - The Foundation" style="width: 60px; margin: 10px;" />
   
-  <!-- Rust - The Future of Systems Icon -->
-  <img src="" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <!-- Rust - The Future of Systems Icon -->  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
   
   <!-- Flutter - Beautiful UIs Everywhere Icon -->
   <img src="https://iconscout.com/icon/flutter-2752187" title="Flutter - Beautiful UIs Everywhere" style="width: 60px; margin: 10px;" />
