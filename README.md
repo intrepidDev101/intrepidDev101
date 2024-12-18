@@ -1,10 +1,47 @@
 [![header.png](https://i.postimg.cc/Vkrc2JQL/header.png)](https://postimg.cc/cvSjn4LV)
 
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-  <h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #58A6FF; text-shadow: 0 0 10px #58A6FF, 0 0 20px #58A6FF;">
-    >_ 🌟 Hello There! 👋
-  </h1>
-</div>
+<h1 align="center" class="glitch" data-text="🌟 Hello There! 👋">🌟 Hello There! 👋</h1>
+
+<style>
+  .glitch {
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: bold;
+    position: relative;
+  }
+  
+  .glitch::before,
+  .glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 0;
+    color: #FF6D28;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .glitch::before {
+    animation: glitch-animation 2s infinite;
+    top: -2px;
+    left: 2px;
+  }
+  
+  .glitch::after {
+    animation: glitch-animation 2s infinite;
+    top: 2px;
+    left: -2px;
+  }
+  
+  @keyframes glitch-animation {
+    0% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+    100% { transform: translate(0); }
+  }
+</style>
 
 
 <div align="center">
