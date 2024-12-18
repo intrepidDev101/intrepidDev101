@@ -60,7 +60,6 @@ int main() {
 
 ![intrepidDev101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidDev101&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-
 <!--- Learning RoadMap --->
 
 ## 🚀 My Learning RoadMap
@@ -68,27 +67,63 @@ int main() {
 
 <div align="center">
   <!-- C - The Foundation Icon -->  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C - The Foundation" style="width: 60px; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C - The Foundation" style="width: 60px; margin: 10px;" />
   
-  <!-- Rust - The Future of Systems Icon -->  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
-  
-  <!-- Flutter - Beautiful UIs Everywhere Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter - Beautiful UIs Everywhere" style="width: 60px; margin: 10px;" />
-
   <!-- Git - Version Control System -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="git - version control system" style="width: 60px; margin: 10px;" />
 
+  <!-- SQL - Database Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="SQL - Database" style="width: 60px; margin: 10px;" />
+
+  <!-- MongoDB - NoSQL Database Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB - NoSQL Database" style="width: 60px; margin: 10px;" />
+  
+  <!-- Rust - The Future of Systems Icon -->  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
+
+  <!-- Docker - Containerization Platform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker - Containerization" style="width: 60px; margin: 10px;" />
+  
+  <!-- Flutter - Beautiful UIs Everywhere Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter - Beautiful UIs Everywhere" style="width: 60px; margin: 10px;" />
+  
+  <!-- Jenkins - Automation Server Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins - Automation Server" style="width: 60px; margin: 10px;" />
+  
   <!-- Linux - Arch Linux Distribution -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" title="linux" style="width: 60px; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" title="Linux - Arch" style="width: 60px; margin: 10px;" />
+
+  <!-- Figma - UI Design Tool -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma - UI Design" style="width: 60px; margin: 10px;" />
+  
+  <!-- Firebase - Backend as a Service -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" title="Firebase - Backend" style="width: 60px; margin: 10px;" />
+
+  <!-- VSCode - Code Editor -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="VSCode - Code Editor" style="width: 60px; margin: 10px;" />
+
+  <!-- Android Studio - Android Development IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio - IDE" style="width: 60px; margin: 10px;" />
 </div>
 
 ## 🔥 Why These Tools?
 
 - **C**: Unlock the secrets of low-level programming. 🔑
+- **Git**: Track, collaborate, and manage code efficiently. 🌍
+- **SQL**: Manage and interact with relational databases. 📊
+- **MongoDB**: Store and manage data in a NoSQL database. 🚀
 - **Rust**: Fearless concurrency and memory safety — the future of system design. ⚙️
+- **Docker**: Containerize applications for consistent environments. 🔧
 - **Flutter**: Dream it, design it, and deploy it — all in one codebase. 📱💻
+- **Jenkins**: Automate deployment and continuous integration. 🔄
+- **Linux**: Master the most powerful open-source operating system. 🐧
+- **Figma**: Design beautiful UIs with precision and ease. 🎨
+- **Firebase**: Build scalable apps with seamless backend integration. 🔥
+- **VSCode**: A powerful, customizable code editor for any developer. 📝
+- **Android Studio**: The official IDE for Android development. 📱
+
 > “The tools we master shape the future we create.”
+
 
 <!--- Fun Side --->
 
