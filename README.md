@@ -1,11 +1,9 @@
-
-
 [![header.png](https://i.postimg.cc/Vkrc2JQL/header.png)](https://postimg.cc/cvSjn4LV)
 
 # 🌟 Hello There! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=58A6FF&center=true&width=800&lines=Welcome+to+intrepidDev101's+Profile!;Learning+and+Growing+with+C,+Flutter+and+Bash!;Exploring+Generative+AI+and+Coding+Tools!;Let's+Code+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=58A6FF&center=true&width=800&lines=Welcome+to+intrepidDev101's+Profile!;Learning+and+Growing+with+C,+Rust+and+FlutterExploring+Generative+AI+and+Coding+Tools!;Let's+Code+Something+Awesome!" alt="Typing SVG" />
 </div>
 
 ---
