@@ -1,8 +1,9 @@
 [![header.png](https://i.postimg.cc/Vkrc2JQL/header.png)](https://postimg.cc/cvSjn4LV)
 
-<h1 align="center" style="font-size: 3rem; color: #FF6D28; animation: flicker 2s infinite; text-shadow: 0 0 20px #FF6D28, 0 0 30px #FF3E00, 0 0 40px #FF3E00;">
-  🔥 Hello There! 👋
+<h1 align="center" style="font-size: 3.5rem; background: linear-gradient(90deg, #F72585, #4361EE, #4CC9F0); -webkit-background-clip: text; color: transparent;">
+  🌌 Hello There! 👋
 </h1>
+
 
 <style>
   @keyframes flicker {
