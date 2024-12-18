@@ -1,6 +1,11 @@
 [![header.png](https://i.postimg.cc/Vkrc2JQL/header.png)](https://postimg.cc/cvSjn4LV)
 
-# 🌟 Hello There! 👋
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+  <h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #58A6FF; text-shadow: 0 0 10px #58A6FF, 0 0 20px #58A6FF;">
+    >_ 🌟 Hello There! 👋
+  </h1>
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=FF6D28&background=00000000&center=true&vCenter=true&width=1000&height=70&lines=🌌+Welcome+to+The+Orbital+Hub!;🚀+intrepidDev101+is+On+a+Mission+to+Master+C,+Rust,+and+Flutter;🧠+Exploring+AI's+Creative+Frontier+%26+Inventing+New+Possibilities;💻+Building+One+Line+of+Code+at+a+Time...;✨+Together,+Let's+Code+the+Next+Big+Thing!+" alt="Typing SVG" />
