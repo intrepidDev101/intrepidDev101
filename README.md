@@ -3,7 +3,7 @@
 # 🌟 Hello There! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=FF6D28&background=00000000&center=true&vCenter=true&width=1000&height=70&lines=🌌+Welcome+to+The+Orbital+Hub!;🚀+intrepidDev101+is+On+a+Mission+to+Master+C,+Rust,+and+Flutter;🧠+Exploring+AI's+Creative+Frontier+%26+Inventing+New+Possibilities;💻+Building+One+Line+of+Code+at+a+Time...;✨+Together,+Let's+Code+the+Next+Big+Thing!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=FF6D28&background=00000000&center=true&vCenter=true&width=1000&height=70&lines=🌌+Welcome+to+The+Orbital+Hub!;🚀+intrepidDev101+is+On+a+Mission+to+Master+C,+Rust,+and+Flutter;🧠+Exploring+AI's+Creative+Frontier+%26+Inventing+New+Possibilities;💻+Building+One+Line+of+Code+at+a+Time...;✨+Together,+Let's+Code+the+Next+Big+Thing!+" alt="Typing SVG" />
 </div>
 
 
