@@ -67,12 +67,15 @@ int main() {
 > "Crafting code, one language at a time!"
 
 <div align="center">
-  <!-- Direct Icons from Icons8 -->
-  <img src="https://img.icons8.com/ios/452/cogs.png" title="C - The Foundation" style="width: 60px; margin: 10px;" />
-  <img src="https://img.icons8.com/ios/452/rust.png" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
-  <img src="https://img.icons8.com/ios/452/flutter.png" title="Flutter - Beautiful UIs Everywhere" style="width: 60px; margin: 10px;" />
+  <!-- C - The Foundation Icon -->
+  <img src="https://img.iconscout.com/ios/512/cog.png" title="C - The Foundation" style="width: 60px; margin: 10px;" />
+  
+  <!-- Rust - The Future of Systems Icon -->
+  <img src="https://img.iconscout.com/ios/512/rust.png" title="Rust - The Future of Systems" style="width: 60px; margin: 10px;" />
+  
+  <!-- Flutter - Beautiful UIs Everywhere Icon -->
+  <img src="https://img.iconscout.com/ios/512/flutter.png" title="Flutter - Beautiful UIs Everywhere" style="width: 60px; margin: 10px;" />
 </div>
-
 
 ## 🔥 Why These Tools?
 
@@ -104,33 +107,33 @@ fn main() {
 ### 🌐 **Let’s Connect!**
 
 <div align="center">
-  <!-- Discord Icon with Animation -->
+  <!-- Discord Icon -->
   <a href="https://discord.gg/yourdiscordlink">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Discord_logo_2023.svg" alt="Discord" width="50" height="50" style="animation: rotate 2s infinite linear;" />
+    <img src="https://img.iconscout.com/ios/512/discord.png" alt="Discord" width="50" height="50" style="animation: rotate 2s infinite linear;" />
   </a>&nbsp;
 
-  <!-- LinkedIn Icon with Animation -->
+  <!-- LinkedIn Icon -->
   <a href="https://linkedin.com/in/intrepiddev101">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="50" height="50" style="animation: pulse 1s infinite;" />
+    <img src="https://img.iconscout.com/ios/512/linkedin.png" alt="LinkedIn" width="50" height="50" style="animation: pulse 1s infinite;" />
   </a>&nbsp;
 
-  <!-- Gmail Icon with Animation -->
+  <!-- Gmail Icon -->
   <a href="mailto:intrepiddev101@example.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gmail_Icon.png" alt="Email" width="50" height="50" style="animation: bounce 1s infinite;" />
+    <img src="https://img.iconscout.com/ios/512/gmail.png" alt="Email" width="50" height="50" style="animation: bounce 1s infinite;" />
   </a>&nbsp;
 
-  <!-- Twitter Icon with Animation -->
+  <!-- Twitter Icon -->
   <a href="https://twitter.com/intrepiddev101">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Twitter" width="50" height="50" style="animation: swing 1s infinite;" />
+    <img src="https://img.iconscout.com/ios/512/twitter.png" alt="Twitter" width="50" height="50" style="animation: swing 1s infinite;" />
   </a>&nbsp;
 
-  <!-- Reddit Icon with Animation -->
+  <!-- Reddit Icon -->
   <a href="https://reddit.com/user/intrepiddev101">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Reddit_logo_2023.svg" alt="Reddit" width="50" height="50" style="animation: bounce 1.5s infinite;" />
+    <img src="https://img.iconscout.com/ios/512/reddit.png" alt="Reddit" width="50" height="50" style="animation: bounce 1.5s infinite;" />
   </a>&nbsp;
 
-  <!-- Telegram Icon with Animation -->
+  <!-- Telegram Icon -->
   <a href="https://t.me/intrepiddev101">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="animation: pulse 1s infinite;" />
+    <img src="https://img.iconscout.com/ios/512/telegram.png" alt="Telegram" width="50" height="50" style="animation: pulse 1s infinite;" />
   </a>
 </div>
