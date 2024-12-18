@@ -147,11 +147,8 @@ fn main() {
 
 ### 🌐 **Let’s Connect!**
 
-<div align="center">
-  <!-- Discord Icon -->
-  <a href="https://discord.gg/yourdiscordlink">
-    <img src="https://img.iconscout.com/ios/512/discord.png" alt="Discord" width="50" height="50" style="animation: rotate 2s infinite linear;" />
-  </a>&nbsp;
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/9c6d9329-cbdc-4a7b-9a38-2880bbf07db3/Dd0WcmLLB5.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 
   <!-- LinkedIn Icon -->
   <a href="https://linkedin.com/in/intrepiddev101">
