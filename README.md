@@ -148,7 +148,7 @@ fn main() {
 ### 🌐 **Let’s Connect!**
 
 <!-- Social Media Icons Section -->
-<div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
 
   <!-- Discord Icon -->
   <a href="https://discord.com/users/your-username" target="_blank">
@@ -172,7 +172,7 @@ fn main() {
 
   <!-- Reddit Icon -->
   <a href="https://reddit.com/user/intrepiddev101" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" alt="Reddit" width="24" height="24" style="transition: transform 0.3s ease;"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" alt="Reddit" width="48" height="48" style="transition: transform 0.3s ease;"/>
   </a>
 
   <!-- Telegram Icon -->
@@ -181,4 +181,6 @@ fn main() {
   </a>
 
 </div>
+
+
 
