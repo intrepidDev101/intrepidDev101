@@ -147,31 +147,38 @@ fn main() {
 
 ### 🌐 **Let’s Connect!**
 
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/9c6d9329-cbdc-4a7b-9a38-2880bbf07db3/Dd0WcmLLB5.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+<!-- Social Media Icons Section -->
+<div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
+
+  <!-- Discord Icon -->
+  <a href="https://discord.com/users/your-username" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/discord-new-logo.png" alt="Discord" width="48" height="48" style="transition: transform 0.3s ease;"/>
+  </a>
 
   <!-- LinkedIn Icon -->
-  <a href="https://linkedin.com/in/intrepiddev101">
-    <img src="https://img.iconscout.com/ios/512/linkedin.png" alt="LinkedIn" width="50" height="50" style="animation: pulse 1s infinite;" />
-  </a>&nbsp;
+  <a href="https://linkedin.com/in/intrepiddev101" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="48" height="48" style="transition: transform 0.3s ease;"/>
+  </a>
 
-  <!-- Gmail Icon -->
-  <a href="mailto:intrepiddev101@example.com">
-    <img src="https://img.iconscout.com/ios/512/gmail.png" alt="Email" width="50" height="50" style="animation: bounce 1s infinite;" />
-  </a>&nbsp;
+  <!-- Email Icon -->
+  <a href="mailto:intrepiddev101@example.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/apple-mail.png" alt="Email" width="48" height="48" style="transition: transform 0.3s ease;"/>
+  </a>
 
   <!-- Twitter Icon -->
-  <a href="https://twitter.com/intrepiddev101">
-    <img src="https://img.iconscout.com/ios/512/twitter.png" alt="Twitter" width="50" height="50" style="animation: swing 1s infinite;" />
-  </a>&nbsp;
+  <a href="https://twitter.com/intrepiddev101" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="48" height="48" style="transition: transform 0.3s ease;"/>
+  </a>
 
   <!-- Reddit Icon -->
-  <a href="https://reddit.com/user/intrepiddev101">
-    <img src="https://img.iconscout.com/ios/512/reddit.png" alt="Reddit" width="50" height="50" style="animation: bounce 1.5s infinite;" />
-  </a>&nbsp;
+  <a href="https://reddit.com/user/intrepiddev101" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" alt="Reddit" width="24" height="24" style="transition: transform 0.3s ease;"/>
+  </a>
 
   <!-- Telegram Icon -->
-  <a href="https://t.me/intrepiddev101">
-    <img src="https://img.iconscout.com/ios/512/telegram.png" alt="Telegram" width="50" height="50" style="animation: pulse 1s infinite;" />
+  <a href="https://t.me/intrepiddev101" target="_blank">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48" height="48" style="transition: transform 0.3s ease;"/>
   </a>
+
 </div>
+
