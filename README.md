@@ -42,3 +42,78 @@ int main() {
 
     return chase(dreams);
 }
+```
+
+<!--- Github Stats --->
+
+## 🌟 My Journey in Numbers
+**📊 GitHub Stats**
+![intrepidDev101's Stats](https://github-readme-stats.vercel.app/api?username=intrepidDev101&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+
+**🔥 Streak**
+![intrepidDev101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=intrepidDev101&theme=tokyonight&hide_border=true)
+
+**🗂️ Top Languages**
+![intrepidDev101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intrepidDev101&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+<!--- Learning RoadMap --->
+
+## 🚀 My Learning RoadMap
+> "Crafting code, one language at a time!"
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/css/font-awesome.min.css" rel="stylesheet"/>
+  <i class="fa fa-cogs" title="C - The Foundation" style="font-size: 60px; margin: 10px;"></i>
+  <i class="fab fa-rust" title="Rust - The Future of Systems" style="font-size: 60px; margin: 10px;"></i>
+  <i class="fab fa-flutter" title="Flutter - Beautiful UIs Everywhere" style="font-size: 60px; margin: 10px;"></i>
+</div>
+
+## 🔥 Why These Tools?
+- **C**: Unlock the secrets of low-level programming. 🔑
+- **Rust**: Fearless concurrency and memory safety — the future of system design. ⚙️
+- **Flutter**: Dream it, design it, and deploy it — all in one codebase. 📱💻
+> “The tools we master shape the future we create.”
+
+<!--- Fun Side --->
+
+## 🎉 Fun Extras
+#### 💻 Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=material" width="500" alt="Dev Quote"> </div>
+
+## 🎨 Code Snippet of the Week
+```Rust
+// A simple Rust function to brighten your day!
+fn make_it_sunny() -> &'static str {
+    "☀️ Everything is going to be okay!"
+}
+
+fn main() {
+    println!("{}", make_it_sunny());
+}
+```
+
+<!--- Social Connection --->
+
+### 🌐 **Let’s Connect!**
+
+<div align="center">
+  <a href="https://discord.gg/yourdiscordlink">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Discord_logo_2023.svg" alt="Discord" width="50" height="50" style="animation: rotate 2s infinite linear;" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/intrepiddev101">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="50" height="50" style="animation: pulse 1s infinite;" />
+  </a>&nbsp;
+  <a href="mailto:intrepiddev101@example.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gmail_Icon.png" alt="Email" width="50" height="50" style="animation: bounce 1s infinite;" />
+  </a>&nbsp;
+  <a href="https://twitter.com/intrepiddev101">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Twitter" width="50" height="50" style="animation: swing 1s infinite;" />
+  </a>&nbsp;
+  <a href="https://reddit.com/user/intrepiddev101">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Reddit_logo_2023.svg" alt="Reddit" width="50" height="50" style="animation: bounce 1.5s infinite;" />
+  </a>&nbsp;
+  <a href="https://t.me/intrepiddev101">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="animation: pulse 1s infinite;" />
+  </a>
+</div>
