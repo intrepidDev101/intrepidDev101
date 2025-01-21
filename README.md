@@ -1,7 +1,5 @@
-<!-- Animated Header -->
-<div align="center">
-  <!-- Dynamic Space Banner -->
-  <a href="#"><img src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&q=80&w=1200&h=300" alt="Space Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 15px;" /></a>
+<!-- Header Image -->
+[![header.png](https://i.postimg.cc/Vkrc2JQL/header.png)](https://postimg.cc/cvSjn4LV)
 
   <!-- Animated Title -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+intrepidDev101;%F0%9F%9A%80+Space+Explorer;%F0%9F%92%BB+Code+Architect;%E2%9C%A8+Future+Builder" alt="Typing SVG" />
@@ -105,19 +103,6 @@ fn main() {
   </table>
 </div>
 
-<!-- Featured Projects -->
-## 🌟 Space Projects
-
-<div align="center">
-  <!-- Project Cards with Hover Effect -->
-  <a href="https://github.com/yourusername/project1">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=intrepidDev101&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=intrepidDev101&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" />
-  </a>
-</div>
-
 <!-- Animated Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -148,4 +133,4 @@ fn main() {
 </div>
 
 <!-- Hidden Metrics -->
-![](https://hit.yhype.me/github/profile?user_id=intrepidDev101)a
+![](https://hit.yhype.me/github/profile?user_id=intrepidDev101)
