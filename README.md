@@ -16,30 +16,25 @@
 <table align="center" width="100%">
   <tr>
     <!-- Left Column: About & Tech -->
-    <td valign="top" width="50%">
-      
+    <td valign="top" width="50%">    
       <h2 align="left">🚀 About Me</h2>
       <ul>
         <li>Crafting **scalable software solutions** with an artistic touch.</li>
         <li>Passionate about **systems programming**, **mobile development**, and **open-source contributions**.</li>
         <li>Blending **tech & creativity** for a seamless user experience.</li>
       </ul>
-      
       <h2 align="left">🔧 Tech Stack</h2>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=c,flutter,linux,git,figma&theme=dark" alt="Tech Stack" width="300" />
       </p>
     </td>
-
     <!-- Right Column: Stats & Contributions -->
     <td valign="top" width="50%">
-      
       <h2 align="left">📊 GitHub Stats</h2>
       <p align="center">
         <img height="170" src="https://github-readme-stats.vercel.app/api?username=intrepidDev101&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
         <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=intrepidDev101&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
       </p>
-
       <h2 align="left">🛠 Contribution Graph</h2>
       <p align="center">
         <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="90%" />
